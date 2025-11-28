@@ -1,0 +1,22 @@
+.settings
+Debug
+Drivers
+Core/Startup
+Middlewares
+
+.cproject
+.mxproject
+# .project
+MA732-f4eval.elf.launch
+MA732-f4eval\ Debug.launch
+MA732-f4eval.launch
+STM32F411RETX_FLASH.ld
+
+Core/Inc/stm32f4xx_hal_conf.h
+Core/Inc/stm32f4xx_it.h
+
+Core/Src/stm32f4xx_hal_msp.c
+Core/Src/stm32f4xx_it.c
+Core/Src/syscalls.c
+Core/Src/sysmem.c
+Core/Src/system_stm32f4xx.c
